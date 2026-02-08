@@ -115,9 +115,6 @@ curl -X GET http://localhost:5000/api/employees \
 - CORS enabled
 - Input validation
 
-## 📞 Support
-
-For issues, create an issue in the repository or check documentation.
 
 ---
 **Version**: 1.0.0 | **Last Updated**: February 2024
